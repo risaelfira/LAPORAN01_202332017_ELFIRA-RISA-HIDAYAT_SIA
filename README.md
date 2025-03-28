@@ -56,8 +56,3 @@ This is a student academic submission and is not open for public contributions.
 
 This repository is intended for educational purposes only.
 
-## Acknowledgments
-
-- Dosen Pengampu SIA
-- Universitas Komputer Indonesia (UNIKOM)
-- All students and colleagues who provided input and feedback
