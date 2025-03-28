@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a student project report for the course Sistem Informasi Akuntansi (SIA). It documents assignments, project files, and other coursework submitted by Elfira Risa Hidayat (ID: 202332017). The project showcases an implementation of an accounting information system using basic web technologies.
+This repository contains a student project report for the course Sistem Informasi. It documents assignments, project files, and other coursework submitted by Elfira Risa Hidayat (NIM: 202332017). The project showcases an implementation of an accounting information system using basic web technologies.
 
 ## Table of Contents
 
